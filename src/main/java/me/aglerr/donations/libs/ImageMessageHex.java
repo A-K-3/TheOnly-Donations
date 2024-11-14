@@ -1,7 +1,7 @@
 package me.aglerr.donations.libs;
 
+import de.themoep.minedown.MineDown;
 import me.aglerr.donations.ConfigValue;
-import me.aglerr.mclibs.minedown.MineDown;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.util.ChatPaginator;

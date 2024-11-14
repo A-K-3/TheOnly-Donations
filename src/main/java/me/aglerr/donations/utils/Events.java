@@ -1,9 +1,9 @@
 package me.aglerr.donations.utils;
 
+import com.cryptomorin.xseries.XSound;
+import com.cryptomorin.xseries.messages.Titles;
 import me.aglerr.donations.DonationPlugin;
 import me.aglerr.mclibs.libs.Common;
-import me.aglerr.mclibs.xseries.XSound;
-import me.aglerr.mclibs.xseries.messages.Titles;
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
 import org.bukkit.Sound;
